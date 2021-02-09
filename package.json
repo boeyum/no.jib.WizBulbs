@@ -1,0 +1,27 @@
+{
+  "name": "WizBulbs",
+  "version": "0.1.0",
+  "description": "Wiz WiFi lightbulbs control app",
+  "license": "MIT",
+  "author": {
+    "name": "Jan-Ivar Boeyum"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com"
+  },
+  "keywords": [
+    "Wiz",
+    "Lightbulbs",
+    "LED",
+    "WiFi"
+  ],
+  "dependencies": {
+    "WizBulbs": "^0.1.0",
+    "tinycolor2": "^1.4.2"
+  }
+}
