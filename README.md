@@ -38,7 +38,7 @@ Support for all Wiz light bulbs cannot be guaranteed, but most should work. The 
 </table></center>
 
 # LightBulb setup
-To set up the light bulbs, you must use the mobile phone app from Wiz to get each individual light bulb into the wifi network. When this is done, and the light bulbs have been assigned an IP address, they will be recognized by the app. This is because it should be noted that the light bulbs come up in the 2.4Ghz network and require the app to be in the same network. This means that in the worst case you have to turn off the 5Ghz network while detecting the light bulbs.
+To set up the light bulbs, you must use the mobile phone app from Wiz to get each individual light bulb into the wifi network. When this is done, and the light bulbs have been assigned an IP address, they will be recognized by the app. It should be noted that the light bulbs will appear in the 2.4Ghz network and require the app to be in the same network. This means that in the worst case you have to turn off the 5Ghz network while detecting the light bulbs.
 
 # Remarks
 This app is experimental and may therefore contain errors and omissions. The app is not based an official library from Wiz and all use of the app is at your own risk.
