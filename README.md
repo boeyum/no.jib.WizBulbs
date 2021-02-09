@@ -4,7 +4,7 @@ The company Wiz (https://www.wizconnected.com/) has developed several smart ligh
 
 ## Support
 
-Support for all Wiz light bulbs cannot be guaranteed, but most should work. The ones that should be the tested or partly tested are mentioned in the table below, but only one has been tested so far. Scenery has support in Wiz's light bulbs, but will not be supported in this version of the app since bulbs with this function have been tested. The feature can be implemented in a later version.
+Support for all Wiz light bulbs cannot be guaranteed, but most should work. The ones that should be the tested or partly tested are mentioned in the table below, but only one has been fully tested so far. Scenery has support in Wiz's light bulbs, but will not be supported in this version of the app since bulbs with this function have been tested. The feature can be implemented in a later version.
 
 ## List of bulbs *(tested / not tested)*
 <center><table style="background:#cce6ff">
