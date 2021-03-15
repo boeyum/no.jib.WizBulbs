@@ -1,0 +1,20 @@
+{
+  "pair": {
+    "manual": {
+      "title": "Legg til en Wiz-lyspaere ...",
+      "intro": "Fyll inn informasjonen under (det anbefales brukt MAC som id, denne kan finnes i Wiz appen sammen med IP).",
+      "description": "Angi navn og IP adresse for lypaeren i nettverket.",
+      "color_title": "ENDRE FARGE",
+      "error_title": "Valideringen av ip-adressen mislyktes.",
+      "ip_field_empty": "IP-adressefeltet kan ikke vaere tomt.",
+      "name_field_empty": "Feltet for lyspaere kan ikke være tomt.",
+      "mac_field_empty": "Lyspaerens mac address mangler, detect har feilet.",
+      "lightbulb_unreachable": "Lyspaeren kunne ikke naas !",
+      "error_timeout": "En tidsavbrudd skjedde under tilkobling til lyspæren. Kontroller at lyspæren er koblet til nettverket.",
+      "name": "Navn",
+      "ipaddr": "IP Adr.",
+      "macaddr": "ID",
+      "save": "Lagre farge"
+    }
+  }
+}

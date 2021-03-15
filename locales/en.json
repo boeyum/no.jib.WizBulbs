@@ -1,0 +1,20 @@
+{
+  "pair": {
+    "manual": {
+      "title": "Add a Wiz lightbulb...",
+      "intro": "Fill in the information below (it is recommended to use MAC for ID which can be found in the Wiz app together with IP).",
+      "description": "Please enter the name and IP adress for the ligtbulb in your network.",
+      "error_title": "The ip address validation failed.",
+      "color_title": "CHANGE COLOR",
+      "ip_field_empty": "The ip address field can not be empty.",
+      "name_field_empty": "The lightbulb name field can not be empty.",
+      "mac_field_empty": "The lightbulb mac address missing, detect failed.",
+      "lightbulb_unreachable": "The lightbulb could not be reached!",
+      "error_timeout": "A timeout occurred while connecting to the lightbulb. Please check that your lightbulb is connected to the network.",
+      "name": "Name",
+      "ipaddr": "IP Addr.",
+      "macaddr": "ID",
+      "save": "Save color"
+    }
+  }
+}
