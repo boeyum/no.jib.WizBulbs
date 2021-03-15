@@ -1,0 +1,57 @@
+<br>
+<br>
+<p data-i18n="pair.manual.intro" style="text-align:center;"></p>
+
+<div id="manual-form-container" style="display:none;">
+    <form id="form" name="form" style="text-align: center;">
+        <input type="text" name="lampname" id="lampname" placeholder="Name" />
+        <br>
+        <input type="text" name="ipaddress" id="ipaddress" placeholder="IP address" />
+        <br>
+        <input type="text" name="uniqueid" id="uniqueid" placeholder="Unique Id" />
+        <br>
+        <input type="submit" id="submit" value="PAIR" style="margin-top: 7px;" onclick="getForm()" />
+    </form>
+</div>
+
+
+    <script type="text/javascript">
+        Homey.setTitle(__('pair.manual.title'));
+        $('div#manual-form-container').show();
+        hideLoading();
+
+        function hideLoading() {
+            $('.add-manually-loading').fadeOut(200);
+        }
+
+        function getForm() {
+
+            // Mark as authenticating
+            document.getElementById('submit').disabled = 'disabled';
+
+            Homey.emit('pairManually', {
+                ip: document.forms["form"]["ipaddress"].value,
+                mac: document.forms["form"]["uniqueid"].value,
+                name: document.forms["form"]["lampname"].value
+            },
+            function (err, result) {
+                if (err) {
+                    console.log('Pair Wizbulb failed');
+                    document.getElementById('submit').disabled = false;
+                    Homey.done();
+                }
+                else {
+                    console.log('Pair Wizbulb succeeded');
+
+                    Homey.addDevice(result, function (err, result) {
+                        if (err) console.error(err);
+                        else console.log(result);
+                        Homey.done();
+                    });
+               }
+            });
+        }
+
+    </script>
+
+    <i class="loading add-manually-loading fa fa-cog fa-spin"></i>
