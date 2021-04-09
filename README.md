@@ -11,7 +11,7 @@ To setup the light bulbs, you must use the mobile phone app from Wiz to get each
 
 
 ## List of bulbs *(tested / not tested)*
-The abbreviations in the table below stand for *on/off* = bulb on / off, *dim* = dimming, *temp* = color temperature in kelvin, *RBG Color* = hue translated to RedGreenBlue  and *scenery* = the bulbs built-in scenery programs. The number described in the 'device' column is the EAN / UPC indication for the product.
+The abbreviations in the table below stand for *On/Off* = bulb on / off, *Dim* = dimming, *Temp* = color temperature in kelvin, *RBG Color* = hue translated to RedGreenBlue  and *scenery* = the bulbs built-in scenery programs. The number described in the 'device' column is the EAN / UPC indication for the product.
 <center>
 <table style="background:#cce6ff">
   <tr>
