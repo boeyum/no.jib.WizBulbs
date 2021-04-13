@@ -296,6 +296,8 @@ This app is experimental and may therefore contain errors and omissions. The app
 
 **2.0.1** Bug fixes.
 
+**2.0.2** Fixed color bulb issues.
+
 # Licens
 [MIT](https://github.com)
 
