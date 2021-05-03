@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512.002 512.002"
+   style="enable-background:new 0 0 512.002 512.002;"
+   xml:space="preserve"
+   sodipodi:docname="house.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"><metadata
+   id="metadata358"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs356" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview354"
+   showgrid="false"
+   inkscape:zoom="1.6601497"
+   inkscape:cx="256.00101"
+   inkscape:cy="269.3285"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Capa_1" />
+<g
+   id="g285">
+	<g
+   id="g283">
+		<path
+   d="M502.001,492.002h-44v-79c0-5.523-4.478-10-10-10c-5.522,0-10,4.477-10,10v79h-120v-190c0-5.523-4.478-10-10-10h-104    c-5.522,0-10,4.477-10,10v190h-120V266.001h3.848c2.652,0,5.195-1.054,7.071-2.929L256.001,91.991l171.081,171.081    c1.876,1.875,4.419,2.929,7.071,2.929h3.848v75c0,5.523,4.478,10,10,10c5.522,0,10-4.477,10-10v-75h44    c4.045,0,7.691-2.437,9.239-6.173c1.548-3.736,0.691-8.038-2.168-10.898l-246-246c-3.906-3.905-10.236-3.905-14.143,0l-94,94    c-3.905,3.905-3.905,10.237,0,14.142c3.906,3.906,10.238,3.906,14.143,0l86.929-86.929l221.857,221.858h-39.563L263.072,70.778    c-3.906-3.905-10.236-3.905-14.143,0L73.706,246.001H34.143l78.929-78.928c3.905-3.905,3.905-10.237,0-14.143    c-3.905-3.904-10.237-3.905-14.143,0l-96,96c-2.859,2.86-3.716,7.161-2.168,10.898c1.548,3.737,5.195,6.173,9.24,6.173h44v226h-44    c-5.522,0-10,4.477-10,10s4.478,10,10,10h54h140h104h140h54c5.522,0,10-4.477,10-10S507.523,492.002,502.001,492.002z     M298.001,492.002h-84v-180h84V492.002z"
+   id="path281" />
+	</g>
+</g>
+<g
+   id="g291">
+	<g
+   id="g289">
+		<path
+   d="M406.001,292.002h-56c-5.522,0-10,4.477-10,10v100c0,5.523,4.478,10,10,10h56c5.522,0,10-4.477,10-10v-100    C416.001,296.479,411.523,292.002,406.001,292.002z M396.001,392.002h-36v-80h36V392.002z"
+   id="path287" />
+	</g>
+</g>
+<g
+   id="g297">
+	<g
+   id="g295">
+		<path
+   d="M162.001,292.002h-56c-5.522,0-10,4.477-10,10v100c0,5.523,4.478,10,10,10h56c5.522,0,10-4.477,10-10v-100    C172.001,296.479,167.523,292.002,162.001,292.002z M152.001,392.002h-36v-80h36V392.002z"
+   id="path293" />
+	</g>
+</g>
+<g
+   id="g303">
+	<g
+   id="g301">
+		<path
+   d="M256.001,164.322c-25.364,0-46,20.636-46,46s20.636,46,46,46c25.364,0,46-20.636,46-46S281.365,164.322,256.001,164.322z     M256.001,236.322c-14.337,0-26-11.664-26-26s11.663-26,26-26c14.337,0,26,11.664,26,26S270.338,236.322,256.001,236.322z"
+   id="path299" />
+	</g>
+</g>
+<g
+   id="g309">
+	<g
+   id="g307">
+		<path
+   d="M244.07,394.932c-1.859-1.86-4.44-2.93-7.069-2.93c-2.63,0-5.21,1.07-7.07,2.93c-1.86,1.86-2.93,4.44-2.93,7.07    s1.069,5.21,2.93,7.07c1.861,1.86,4.44,2.93,7.07,2.93s5.21-1.07,7.069-2.93c1.86-1.86,2.931-4.44,2.931-7.07    S245.931,396.792,244.07,394.932z"
+   id="path305" />
+	</g>
+</g>
+<g
+   id="g315">
+	<g
+   id="g313">
+		<path
+   d="M140.07,125.932c-1.859-1.86-4.439-2.93-7.069-2.93s-5.21,1.07-7.07,2.93c-1.86,1.86-2.93,4.44-2.93,7.07    s1.069,5.21,2.93,7.07c1.861,1.86,4.44,2.93,7.07,2.93s5.21-1.07,7.069-2.93c1.86-1.86,2.931-4.44,2.931-7.07    S141.931,127.792,140.07,125.932z"
+   id="path311" />
+	</g>
+</g>
+<g
+   id="g321">
+	<g
+   id="g319">
+		<path
+   d="M455.07,367.261c-1.859-1.859-4.44-2.93-7.069-2.93c-2.63,0-5.21,1.07-7.07,2.93c-1.86,1.87-2.93,4.44-2.93,7.07    s1.069,5.21,2.93,7.08c1.86,1.86,4.44,2.92,7.07,2.92s5.21-1.06,7.069-2.92c1.86-1.87,2.931-4.44,2.931-7.08    C458.001,371.701,456.931,369.121,455.07,367.261z"
+   id="path317" />
+	</g>
+</g>
+<g
+   id="g323">
+</g>
+<g
+   id="g325">
+</g>
+<g
+   id="g327">
+</g>
+<g
+   id="g329">
+</g>
+<g
+   id="g331">
+</g>
+<g
+   id="g333">
+</g>
+<g
+   id="g335">
+</g>
+<g
+   id="g337">
+</g>
+<g
+   id="g339">
+</g>
+<g
+   id="g341">
+</g>
+<g
+   id="g343">
+</g>
+<g
+   id="g345">
+</g>
+<g
+   id="g347">
+</g>
+<g
+   id="g349">
+</g>
+<g
+   id="g351">
+</g>
+<text
+   xml:space="preserve"
+   style="font-size:40px;line-height:1.25;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE'"
+   x="24.094212"
+   y="37.346027"
+   id="text362"><tspan
+     sodipodi:role="line"
+     x="24.094212"
+     y="37.346027"
+     id="tspan364" /></text><text
+   xml:space="preserve"
+   style="font-size:74.6667px;line-height:1.25;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE';white-space:pre;inline-size:0"
+   x="16.263594"
+   y="56.019043"
+   id="text370"><tspan
+     id="tspan368"
+     x="16.263594"
+     y="56.019043" /></text><text
+   xml:space="preserve"
+   style="font-size:53.3333px;line-height:1.25;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE'"
+   x="18.07066"
+   y="89.750938"
+   id="text374"><tspan
+     sodipodi:role="line"
+     id="tspan372"
+     x="18.07066"
+     y="89.750938">Wiz</tspan></text><text
+   xml:space="preserve"
+   style="font-size:37.3333px;line-height:1.25;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE'"
+   x="383.09799"
+   y="65.054375"
+   id="text378"><tspan
+     sodipodi:role="line"
+     id="tspan376"
+     x="383.09799"
+     y="65.054375">by</tspan><tspan
+     sodipodi:role="line"
+     x="383.09799"
+     y="111.721"
+     id="tspan380">  JIB</tspan></text></svg>
