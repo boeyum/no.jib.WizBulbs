@@ -300,7 +300,9 @@ This app is experimental and may therefore contain errors and omissions. The app
 
 **2.1.0** Release to community store.
 
-**2.1.1** Bug fix color and on/off/dim bulb.
+**2.1.1** Bug fix color bulb.
+
+**2.2.0** Added support for on/off/dim bulb (EAN: 8718699786038).
 
 # Licens
 [MIT](https://github.com)
