@@ -5,7 +5,7 @@ The company Wiz (https://www.wizconnected.com/) has developed several smart ligh
 ## Support
 
 Support for all Wiz light bulbs cannot be guaranteed, but most should work. The ones that should be the tested or partly tested are mentioned in the table below, but only one has been fully tested so far. The current application uses SDK 3 and Homey =>5.0.0.<br><br>
-From version 2.2.0, support for Wiz ceiling ceiling lights has been added. These will be listed in the table as bulbs. 
+From version 2.4.0, support for Wiz ceiling ceiling lights has been added. These will be listed in the table as bulbs. 
 # LightBulb setup
 To setup the light bulbs, you must use the mobile phone app from Wiz to get each individual light bulb into the wifi network. When this is done, and the light bulbs have been assigned an IP address, you do the pairing. Make a regular pairing in the Homey app and select the type of light bulb you want to search for. The app will return the available light bulbs of the type you have requested. Select the light bulb you want to pair, and change the name with advanced settings after pairing.
 
